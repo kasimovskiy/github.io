@@ -18,10 +18,9 @@
 
 ### Создание диаграммы классов и диаграммы прецедентов "Учёт компьютерной техники на предприятии" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
-#### На предприятии ведётся учёт поступающей компьютеной техники. 
+#### В магазине ведется браковка музыкальных инструментов. 
 
-* [Текст](https://github.com/kasimovskiy/github.io/blob/master/LR1.2.png) и [рисунок](http://www.plantuml.com/plantuml/png/JP11IiD058RNdLCykbBm4BLUm9th8HbiwBGZCoakH0Wf8e8eRhjGn0i4CJYcRRp2_sxaYuFW8kJb-_zyZvb9ABKlLmkhmhnONcYl5vHP7G9TgT5KP_DpxrRB_CHPv-biLfH6ZOwzTvU9JArKfEXyRln_TAsIPOnNz5npnMjyO8-8RamwqAdu2I_OA3nBVCjFN1FU_eOEFNRuvdj-u1ejLzWB-QBVZvlaGIGP6f9QXLRimploetIYP0VO90csadQoP2soEydQes5pdtuSH0q-vTaHOc8DteLl1tOe9vaLkQ6iy9arQcAMkTpM3m00) Диаграммы классов<br>
-![none](http://www.plantuml.com/plantuml/png/JP11IiD058RNdLCykbBm4BLUm9th8HbiwBGZCoakH0Wf8e8eRhjGn0i4CJYcRRp2_sxaYuFW8kJb-_zyZvb9ABKlLmkhmhnONcYl5vHP7G9TgT5KP_DpxrRB_CHPv-biLfH6ZOwzTvU9JArKfEXyRln_TAsIPOnNz5npnMjyO8-8RamwqAdu2I_OA3nBVCjFN1FU_eOEFNRuvdj-u1ejLzWB-QBVZvlaGIGP6f9QXLRimploetIYP0VO90csadQoP2soEydQes5pdtuSH0q-vTaHOc8DteLl1tOe9vaLkQ6iy9arQcAMkTpM3m00)
+* [Текст](https://github.com/kasimovskiy/github.io/blob/master/LR1.2.png) и [рисунок](github.com/kasimovskiy/github.io/blob/master/LR1.2.png)
 
 #### Сотрудник являтеся человеком, владеющим определенными компетенциями. Сотрудник умеет выполнять проверку при помощи осмотра музыкального инструмента.
 
