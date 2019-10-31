@@ -19,7 +19,7 @@
 ### Создание диаграммы классов и диаграммы прецедентов "Учёт компьютерной техники на предприятии" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
 #### В магазине ведется браковка музыкальных инструментов. 
-* [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip.txt) и [рисунок](https://github.com/kasimovskiy/github.io/blob/master/LR1.1.png) Диаграммы классов<br>
+* [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip.txt) и [рисунок](https://github.com/kasimovskiy/github.io/blob/master/LR1.2.png) Диаграммы классов<br>
 ![none](https://github.com/kasimovskiy/github.io/blob/master/LR1.2.png)
 
 #### Сотрудник являтеся человеком, владеющим определенными компетенциями. Сотрудник умеет выполнять проверку при помощи осмотра музыкального инструмента.
