@@ -14,7 +14,7 @@
 
 #### Сотрудник при помощи ПК ведёт учёт комплектующих, поступающих на предприятие, соблюдая приказы и правила, после чего составляет отчёт.
 
-* [IDEF0-диаграмма в формате .rsf](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip.rsf)
+* [IDEF0-диаграмма в формате .rsf](https://github.com/kasimovskiy/github.io/blob/master/LR1.2.png)
 
 ### Создание диаграммы классов и диаграммы прецедентов "Учёт компьютерной техники на предприятии" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
@@ -26,5 +26,5 @@
 #### Сотрудник являтеся человеком, владеющим ПК. Сотрудник умеет вести учёт поступающей компьютерной техники в соответствии с правилами и приказами.
 
 * [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip(p).txt) и [рисунок](http://www.plantuml.com/plantuml/png/fP71IiD048RFtQSOSj93mGSGQUeva9ld9LdRq3GhamqUh50ZuaK4Rzv4F7WN2xMQ-0epR-JKJI7t7fQT_VwVdt-PKUaqkcgUgtAM5HSQzHnquYp2bHgCTJAReAsAzDJcWiwccJDg42BQIq_6kLZ4Q34rs4VNlRogD8akpTw9kJbtu2nWDfawI3CqYSjieNpV-0Xq2G6zqug-gQKFkJT19qQT-4mDtt3DIxwb7p4qNEyiiNUyKjlfdzJGkXVXzPSjsVqezEoDx_c9Qw0DjHBxom_yo3MjU4cDa2_uVzpvF5e7AeRX40x2GoLdEqPAsXylP8fL961n8etLo1IfREOF) Диаграммы прецедентов<br>
-![none](http://www.plantuml.com/plantuml/png/fP71IiD048RFtQSOSj93mGSGQUeva9ld9LdRq3GhamqUh50ZuaK4Rzv4F7WN2xMQ-0epR-JKJI7t7fQT_VwVdt-PKUaqkcgUgtAM5HSQzHnquYp2bHgCTJAReAsAzDJcWiwccJDg42BQIq_6kLZ4Q34rs4VNlRogD8akpTw9kJbtu2nWDfawI3CqYSjieNpV-0Xq2G6zqug-gQKFkJT19qQT-4mDtt3DIxwb7p4qNEyiiNUyKjlfdzJGkXVXzPSjsVqezEoDx_c9Qw0DjHBxom_yo3MjU4cDa2_uVzpvF5e7AeRX40x2GoLdEqPAsXylP8fL961n8etLo1IfREOF)
+![none](https://github.com/kasimovskiy/github.io/blob/master/LR1.3.png)
 ***
