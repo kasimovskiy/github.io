@@ -1,7 +1,7 @@
 # github.io
 
 # Отчет по лабораторным работам
-# студент группы [ИДБ-16-05](https://github.com/kasimovskiy/github.io/wiki/labs-2019) Касимовский А.А.
+# студент группы [ИДБ-16-05](https://github.com/stankin/design-1/wiki/list-idb-16-05) Касимовский А.А.
 
 ## Лабораторная работа №1
 
