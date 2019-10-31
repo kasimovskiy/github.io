@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Сотрудник" as P {
+ Органы чувств
+Отчет Браковка музыкальных инструментов (Музыкльные инструменты, По правилам браковки)
+}
+hide circle
+@enduml
