@@ -20,10 +20,10 @@
 
 #### В магазине ведется браковка музыкальных инструментов. 
 * [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip.txt) и [рисунок](https://github.com/kasimovskiy/github.io/blob/master/LR1.1.png) Диаграммы классов<br>
-![none](https://github.com/kasimovskiy/github.io/blob/master/LR1.1.png)
+![none](https://github.com/kasimovskiy/github.io/blob/master/LR1.2.png)
 
 #### Сотрудник являтеся человеком, владеющим определенными компетенциями. Сотрудник умеет выполнять проверку при помощи осмотра музыкального инструмента.
 
-* [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip(p).txt) и [рисунок](http://www.plantuml.com/plantuml/png/fP71IiD048RFtQSOSj93mGSGQUeva9ld9LdRq3GhamqUh50ZuaK4Rzv4F7WN2xMQ-0epR-JKJI7t7fQT_VwVdt-PKUaqkcgUgtAM5HSQzHnquYp2bHgCTJAReAsAzDJcWiwccJDg42BQIq_6kLZ4Q34rs4VNlRogD8akpTw9kJbtu2nWDfawI3CqYSjieNpV-0Xq2G6zqug-gQKFkJT19qQT-4mDtt3DIxwb7p4qNEyiiNUyKjlfdzJGkXVXzPSjsVqezEoDx_c9Qw0DjHBxom_yo3MjU4cDa2_uVzpvF5e7AeRX40x2GoLdEqPAsXylP8fL961n8etLo1IfREOF) Диаграммы прецедентов<br>
+* [Текст](https://github.com/kasimovskiy/github.io/blob/master/LR1.3.png) и [рисунок](https://github.com/kasimovskiy/github.io/blob/master/LR1.3.png) Диаграммы прецедентов<br>
 ![none](https://github.com/kasimovskiy/github.io/blob/master/LR1.3.png)
 ***
