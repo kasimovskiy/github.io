@@ -50,7 +50,7 @@
 
 ### Описание участников автоматизируемой деятельности
 
-* [Текст](https://github.com/kasimovskiy/github.io/blob/master/LR2text.png) и [рисунок](https://github.com/kasimovskiy/github.io/blob/master/LR2.4.png)
+* [Текст](https://github.com/kasimovskiy/github.io/blob/master/LR2text.txt) и [рисунок](https://github.com/kasimovskiy/github.io/blob/master/LR2.4.png)
 диаграммы прецедентов<br>
 ![none](https://github.com/kasimovskiy/github.io/blob/master/LR2.4.png)
 ***
