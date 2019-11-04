@@ -1,0 +1,19 @@
+@startuml
+actor "Бухгалтер" as p
+database "Номенклатура" as q
+database "Брак" as br
+participant "Отчет" as m
+actor "Руководитель" as dr
+participant "Приказы" as d
+database "БД Отчеты" as t
+p -> q : Сбор данных
+q -> p
+p -> br : Сбор данных
+br -> p
+p -> m: Составление отчета
+m -> dr
+dr -> d : Проверка на соответствие
+d -> dr
+dr -> p : Отправка на переделывание
+dr -> t : Отправка отчета
+@enduml
