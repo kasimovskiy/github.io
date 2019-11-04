@@ -27,3 +27,30 @@
 * [Текст](https://github.com/kasimovskiy/github.io/blob/master/LR1.2text.txt) и [рисунок](https://github.com/kasimovskiy/github.io/blob/master/LR1.3.png) Диаграммы прецедентов<br>
 ![none](https://github.com/kasimovskiy/github.io/blob/master/LR1.3.png)
 ***
+
+## Лабораторная работа №2
+
+### Определение надсистемы (среды функционирования)
+
+* IDEF0-диаграмма (блок A0)
+
+![none](https://github.com/kasimovskiy/github.io/blob/master/LR2.1.png)
+
+* IDEF0-диаграмма (блоки A1, A2, A3)
+
+![none](https://github.com/kasimovskiy/github.io/blob/master/LR2.2.png)
+
+### Определение автоматизируемых видов деятельности
+
+* DFD-диаграмма "Прием" (блок A1-03)
+
+![none](https://github.com/kasimovskiy/github.io/blob/master/LR2.3.png)
+
+* [Диаграмма формате .rsf](https://github.com/kasimovskiy/github.io/blob/master/LR2.rsf)
+
+### Описание участников автоматизируемой деятельности
+
+* [Текст](https://github.com/kasimovskiy/github.io/blob/master/LR2text.png) и [рисунок](https://github.com/kasimovskiy/github.io/blob/master/LR2.4.png)
+диаграммы прецедентов<br>
+![none](https://github.com/kasimovskiy/github.io/blob/master/LR2.4.png)
+***
