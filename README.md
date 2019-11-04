@@ -63,7 +63,7 @@
 
 ![none](https://github.com/kasimovskiy/github.io/blob/master/LR3.1.png)
 
-* [Диаграмма формате .rsf](https://github.com/kasimovskiy/github.io/blob/master/LR3.png)
+* [Диаграмма формате .rsf](https://github.com/kasimovskiy/github.io/blob/master/LR3.rsf)
 
 ### Описание взаимодействия участников автоматизируемой деятельности
 
