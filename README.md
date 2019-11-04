@@ -54,3 +54,26 @@
 диаграммы прецедентов<br>
 ![none](https://github.com/kasimovskiy/github.io/blob/master/LR2.4.png)
 ***
+
+## Лабораторная работа №3
+
+### Описание хранилищ данных
+
+* DFD-диаграмма "Составление отчета" (блок A3-03)
+
+![none](https://github.com/kasimovskiy/github.io/blob/master/LR3.1.png)
+
+* [Диаграмма формате .rsf](https://github.com/kasimovskiy/github.io/blob/master/LR3.png)
+
+### Описание взаимодействия участников автоматизируемой деятельности
+
+* [Текст](https://github.com/kasimovskiy/github.io/blob/master/LR3.1text.txt) и [рисунок](https://github.com/kasimovskiy/github.io/blob/master/LR3.2.png)
+диаграммы последовательности<br>
+![none](https://github.com/kasimovskiy/github.io/blob/master/LR3.2.png)
+
+### Описание участников автоматизируемой деятельности
+
+* [Текст](https://github.com/kasimovskiy/github.io/blob/master/LR3.2text.txt) и [рисунок](https://github.com/kasimovskiy/github.io/blob/master/LR3.3.png)
+диаграммы классов<br>
+![none](https://github.com/kasimovskiy/github.io/blob/master/LR3.3.png)
+***
